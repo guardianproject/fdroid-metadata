@@ -1,0 +1,45 @@
+Categories: Security
+License: GPLv3
+WebSite: https://guardianproject.info
+SourceCode: https://github.com/guardianproject/PixelKnot
+IssueTracker: https://github.com/guardianproject/PixelKnot/issues
+
+Summary: Hide messages inside files
+Description: Image steganography app with old school F5 steganography
+
+RepoType: git
+Repo: https://github.com/guardianproject/PixelKnot.git
+
+builds:
+- versionCode: 4
+  versionName: 0.3.1
+  commit: 0.3.1
+  subdir: app
+  init: sed -i '/reference/d' project.properties
+  srclibs: 2:ActionBarSherlock@90939dc,1:F5@ce9c78497a0cc22a
+
+- versionCode: 6
+  versionName: 0.3.3
+  commit: 0.3.3
+  subdir: app
+  submodules: yes
+  init: mv res/values-zh_TW res/values-zh-rTW && mv res/values-nb_NO res/values-nb-rNO
+  target: android-22
+
+- versionCode: 10
+  versionName: 1.0
+  commit: 1.0.0
+  subdir: PixelKnot
+  submodules: yes
+  gradle: yes
+
+- versionCode: 101
+  versionName: 1.0.1
+  commit: 1.0.1
+  subdir: PixelKnot
+  submodules: yes
+  gradle: yes
+
+UpdateCheckMode: Tags
+CurrentVersion: 1.0.1
+CurrentVersionCode: 101
