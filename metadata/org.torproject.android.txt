@@ -542,8 +542,9 @@ Build:15.0.1-RC-3-PIE,15012316
     build=NDK_BASE=$$NDK$$ make -C external APP_ABI=mips64 PIEFLAGS="-fPIE -pie" NDK_PLATFORM_LEVEL=21 NDK_TOOLCHAIN_VERSION=4.9
     buildjni=yes
 
-Build:15.1.2,15120000
-    commit=15.1.2
+Build:15.4.0-beta-2-multi,15402000
+    disable=does not build
+    commit=15.4.0-beta-2-multi
     submodules=yes
     forceversion=yes
     forcevercode=yes
