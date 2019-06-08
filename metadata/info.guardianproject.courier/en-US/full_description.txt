@@ -1,0 +1,26 @@
+Courier is a mobile RSS news reader with enhanced security features, offline reading and sharing capability.  We've designed it to be fast and light on slow networks and secure in case your network is monitored.
+
+FEATURES:
+★ SECURE: Courier works with Orbot, Tor for Android (https://play.google.com/store/apps/details?id=org.torproject.android) to defend against network surveillance and protect your privacy
+★ ENCRYPTED: Courier encrypts your stored news - and personal information - to protect your privacy
+★ PANIC: Courier's configurable "panic" action will remove your news, your personal data and optionally the app itself with one swipe
+★ SAFE: Courier securely caches your password with a configurable timeout. You can configure for repeated password entry failures to trigger data (and app!) deletion.  And you can set a special "kill password".  
+★ AUTOMATIC: Courier quietly synchronizes your feeds in the background (manual mode available, too!)
+★ CONTENT SHARE: secure, off-network, sharing of news articles with other users of Courier via Bluetooth (unsecure share available, too!)
+★ PEER-TO-PEER APP SHARING: Get your friends set up with Courier by sharing the app over a common WiFi network or hotspot.
+★ LIGHTWEIGHT: configure Courier to minimize network data use on low-speed networks or sync only on wi-fi
+★ FAVORITES: mark articles as easily-retrieved favorites
+★ PRE-CONFIGURED: Courier ships with desirable international news feeds, and it's easy to add your own
+★ LANGUAGES: English, Chinese (中國的), Tibetan (བོད་ཡིག), Ukrainian (Український), Russian (русский)
+★ AD-FREE: Courier is an ad-free, open-source application
+
+ABOUT US:
+Guardian Project is a group of developers, designers and technologists that make secure mobile apps and open-source code for a better tomorrow.
+
+★ OUR WEBSITE: https://guardianproject.info
+★ ON TWITTER: https://twitter.com/guardianproject
+★ OPEN-SOURCE: Courier is free software. Take a look at our source code, or join the community to make it better: https://github.com/guardianproject/securereader
+★ MESSAGE US: Are we missing your favorite feature? Found an annoying bug? We’d love to hear from you! Send us an email: support@guardianproject.info
+
+***Disclaimer***
+The Guardian Project makes apps that are designed to protect your security and anonymity. The protocols that we use are widely regarded as the state of the art in security technology. While we are constantly upgrading our software to combat the latest threats and eliminate bugs, no technology is 100% foolproof. For maximum security and anonymity users must utilize best practices to keep themselves safe. You can find a good introductory guide to these topics at https://securityinabox.org

@@ -1,0 +1,14 @@
+CameraV is the easiest way to capture and share verifiable photos and video proof on a smartphone or tablet, all the while keeping it entirely secure and private.
+
+CameraV is easy to learn and simple to use (and insanely secure & powerful under the covers...). All photos and videos you take are password-protected and 100% encrypted on your device. You can also add private notes and tags to any photo or video, and choose who you share them with. CameraV also privately stores data from your device sensors and provides built-in tools to see and share it. Finally, it has a built-in secure camera that is simple, streamlined and even supports selfies.
+
+CameraV was developed in partnership with WITNESS, an international human rights video advocacy group, and with the support of the Knight News Foundation. It is built upon the open-source InformaCam platform.
+
+* READ THE USER GUIDE: https://guardianproject.github.io/informacam-guide/en/InformacamGuide.html
+
+CameraV was developed for use by activists, journalists, advocates and others, working in very difficult and high-risk situations, to capture and gather visual evidence and proof of abuse and rights violations. It can also be used in your daily life to capture any moment, and keep them safe and private. You can also use it for documenting your own evidence, after accidents, for real estate needs, or any where you need "proof".
+
+* OPEN-SOURCE AND FREE: https://github.com/guardianproject/InformaApp
+* JOIN THE COMMUNITY: https://talk.developersquare.net/c/developers-corner/smart-cameras
+
+CameraV is also known as Camera V or InformaCam.

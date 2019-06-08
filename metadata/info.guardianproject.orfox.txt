@@ -1,36 +1,15 @@
-Categories:Internet
-License:MPL-2.0
-Web Site:https://dev.guardianproject.info/projects/orfox-private-browser/
-Source Code:https://github.com/guardianproject/Orfox
-Issue Tracker:https://dev.guardianproject.info/projects/orfox-private-browser/issues
-Donate:https://www.torproject.org/donate/donate.html
+Categories:Internet,Security,GuardianProject
+License:MPL
+Source Code:https://github.com/guardianproject/orfox
+Issue Tracker:https://dev.guardianproject.info/projects/orfox/issues?set_filter=1
+Bitcoin:1Fi5xUHiAPRKxHvyUGVFGt9extBe8Srdbk
+LiberapayID:33617
 
-Name:OrFox
-Summary:TOR Browser
-Description:
-This is a new privacy-enhanced browser -- based on Mozilla Firefox, configured
-by default to work with Orbot: Tor for Android.
-
-You can learn more about the design of Tor Browser on the
-[https://www.torproject.org/projects/torbrowser/design/ TOR website]. Official
-TOR Browser source repository, which this app relies on, is at
-[https://gitweb.torproject.org/tor-browser.git/].
-.
+Auto Name:Orfox
 
 Repo Type:git
-Repo:https://github.com/guardianproject/Orfox
-Binaries:https://guardianproject.info/fdroid/repo/info.guardianproject.orfox_%c.apk
+Repo:https://github.com/guardianproject/orfox.git
 
-Build:Fennec-38.1.0esr/TorBrowser-5.0/Orfox-1.0beta1,1
-    disable=test
-    commit=c3fd3f811a345e7708a8c26c8105d0991e9f3c69
-    submodules=yes
-    output=orfox.apk
-    build=chmod +x make-release-build && \
-        ./make-release-build
-    ndk=r8e
-
-Auto Update Mode:None
-Update Check Mode:None
-Current Version:Fennec-38.1.0esr/TorBrowser-5.0/Orfox-1.0beta1
-Current Version Code:1
+Author Email:support@guardianproject.info
+Author Name:Guardian Project
+Author Web Site: https://guardianproject.info

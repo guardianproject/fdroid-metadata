@@ -1,0 +1,18 @@
+Categories:Multimedia,Security,GuardianProject
+License:MIT
+Web Site:https://guardianproject.info/apps/chatsecure
+Source Code:https://github.com/guardianproject/ChatSecureVoicePlugin
+Issue Tracker:https://dev.guardianproject.info/projects/chatsecure/issues
+Bitcoin:1Fi5xUHiAPRKxHvyUGVFGt9extBe8Srdbk
+LiberapayID:33617
+
+Summary:ChatSecure Open Emoji Plugin
+Description:
+Plugin for [[info.guardianproject.otr.app.im]] to support for core emoji input
+and display.  Based on "Phantom Open Emoji" project.
+.
+Author Email:support@guardianproject.info
+Author Name:Guardian Project
+Author Web Site: https://guardianproject.info
+
+Archive Policy:0 versions
