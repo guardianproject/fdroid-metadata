@@ -1,0 +1,36 @@
+Thanks for being a part of the ChatSecure Android community. We are not actively developing this app anymore, but will continue to fix any critical bugs. ChatSecure for iOS and iPhone WILL CONTINUE ACTIVE DEVELOPMENT!
+
+We are excited to share some great active apps that continue our mission of privacy and security...
+
+Zom is built by the ChatSecure team, and makes it quick & easy for users to connect without a phone number, central servers or requiring any personal data. Zom is also available for iPhones and iPads.
+
+Learn more at https://zom.im
+
+Conversations is the best modern open-source, standards-compliant mobile XMPP client. It is lightweight and supports the OMEMO advanced encryption protocol. Great for advanced users.
+
+Learn more at https://conversations.im
+
+****
+ChatSecure is a free and open source messaging app that features OTR encryption over XMPP. You can connect to your existing accounts on Google, create new accounts on public XMPP servers (including via Tor), or even connect to your own server for extra security.
+
+Unlike other apps that keep you stuck in their walled garden, ChatSecure is fully interoperable with other clients that support OTR and XMPP, such as Xabber, Adium, Jitsi, Zom, Pidgin, and more.
+
+★Strong Cryptography★
+
+ChatSecure only uses well-known open source cryptographic libraries to keep your conversations private. Other apps may make claims about "military grade" security but, without publicly auditable source code and verifiable end-to-end encryption, you cannot be truly safe.
+
+* XMPP with TLS certificate pinning.
+* OTR for verifiable end-to-end encryption and forward secrecy.
+* Tor to help bypass restrictive firewalls.
+* SQLCipher to locally encrypt conversation logs.
+
+★ Free and Open Source ★
+
+We believe in the power of free and open source software. The full source code to the iOS and Android apps is available on GitHub.
+
+Want to get involved? Feel free to send us a pull request, request a feature or report a bug!
+https://github.com/guardianproject/chatsecureandroid
+
+★ WE SPEAK YOUR LANGUAGE: ChatSecure is available for friends who speak: العربية, български, català, Čeština, dansk, Deutsch, Ελληνικά, English, español, eesti, euskara, فارسی, suomi, français, galego, hrvatski, magyar, עברית, íslenska, italiano, 日本語, 한국어, Македонци, Bahasa Melayu, Nederlands, norsk, polski, português, Русский, slovenčina, slovenščina, српски, svenska, Türkçe, українська, Tagalog, Tiếng Việt, 中文(简体), 中文(台灣)
+Don’t see your language? Join us and help translate the app:
+https://www.transifex.com/projects/p/chatsecureandroid

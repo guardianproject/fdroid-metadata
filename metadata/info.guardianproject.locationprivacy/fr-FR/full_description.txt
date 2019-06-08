@@ -1,0 +1,20 @@
+GéoConfidentialité n'est pas vraiment une appli, mais plutôt un jeu de « filtres d'intention » pour toutes les différentes façons de partager un emplacement. Lorsque vous partagez votre emplacement à partir d'une appli, GéoConfidentialité est offert comme option. L'appli reconnaît ensuite les méthodes risquées de partage de l'emplacement et les convertit en des méthodes plus sûres. Ceci signifie principalement que l'appli réécrit les URL pour HTTPS, et même pour utiliser des URL `geo:` qui peuvent fonctionner avec des configurations entièrement hors ligne. GéoConfidentialité fonctionne principalement en lisant les informations d'emplacement de l'URL même. Pour de nombreuses URL, GéoConfidentialité doit en fait charger la page Web afin d'obtenir l'emplacement.
+
+GéoConfidentialité peut aussi servir à réacheminer tous vos liens d'emplacement vers votre appli de cartes préférée. Toutes les applis de cartes pour Android peuvent visualiser les URL `geo:`, et GéoConfidentialité convertit de nombreux types de liens en URL `geo:`, incluant les cartes Google Maps, OpenStreetMap, Amap, Baidu Map, QQ Map, Nokia HERE, Yandex Maps.
+
+Ceci a commencé dans le cadre du travail sur T2 Panic, car le partage de l'emplacement fait souvent partie des applis d'urgence. Suivez notre progression ici :
+
+★ https://guardianproject.info/tag/panic
+★ https://dev.guardianproject.info/projects/panic
+
+Vous ne voyez pas votre langue ? Rejoignez-nous et aidez-nous à traduire cette appli :
+https://www.transifex.com/projects/p/locationprivacy
+
+
+***En apprendre davantage***
+
+★ À PROPOS DE NOUS : le Projet Guardian est un groupe de développeurs créant des applis mobiles sécurisées et du code ouvert pour des lendemains meilleurs.
+★ NOTRE SITE WEB : https://GuardianProject.info
+★ SUR TWITTER : https://twitter.com/guardianproject
+★ LOGICIEL LIBRE : GéoConfidentialité est un logiciel libre. Vous pouvez regarder notre code source, ou contribuer en aidant à encore améliorer GéoConfidentialité : https://github.com/guardianproject/LocationPrivacy
+★ CONTACTEZ-NOUS : votre fonction favorite est absente ? Vous avez trouvé un bogue ennuyant ? Nous aimerions que vous nous en fassiez part ! Envoyez-nous un courriel : support@guardianproject.info ou trouvez-nous dans notre clavardoir https://guardianproject.info/contact

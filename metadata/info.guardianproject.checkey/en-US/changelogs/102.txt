@@ -1,0 +1,4 @@
++ simplify overview and add "detail view"
++ fix all known crasher bugs
++ add translations: pt_PT ru sl
++ update translations: de fi ja nb
