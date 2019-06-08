@@ -1,0 +1,18 @@
+Categories:
+  - Reading
+  - GuardianProject
+License: GPLv3
+AuthorName: Guardian Project
+AuthorEmail: support@guardianproject.info
+AuthorWebSite: ' https://guardianproject.info'
+SourceCode: https://github.com/guardianproject/securereader
+LiberapayID: '33617'
+Bitcoin: 1Fi5xUHiAPRKxHvyUGVFGt9extBe8Srdbk
+
+AutoName: Courier
+
+RepoType: git
+Repo: https://github.com/guardianproject/securereader
+
+AutoUpdateMode: None
+UpdateCheckMode: Tags

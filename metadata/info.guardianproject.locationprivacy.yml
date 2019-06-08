@@ -27,7 +27,7 @@ RepoType: git
 Repo: https://github.com/guardianproject/LocationPrivacy.git
 Binaries: https://guardianproject.info/fdroid/repo/LocationPrivacy-0.3.apk
 
-builds:
+Builds:
 - versionCode: 10
   versionName: 0.1
   disable: does not verify

@@ -1,0 +1,59 @@
+Categories:
+  - Internet
+  - Security
+  - GuardianProject
+License: GPL
+AuthorName: Guardian Project
+AuthorEmail: support@guardianproject.info
+AuthorWebSite: ' https://guardianproject.info'
+WebSite: https://guardianproject.info/apps/orweb
+SourceCode: https://github.com/guardianproject/orweb
+IssueTracker: https://dev.guardianproject.info/projects/orweb/issues?set_filter=1
+LiberapayID: '33617'
+Bitcoin: 1Fi5xUHiAPRKxHvyUGVFGt9extBe8Srdbk
+
+AutoName: Orweb
+Summary: Privacy-enhanced browser
+Description: |-
+    Orweb is a companion browser to [[org.torproject.android]], the port of Tor to
+    Android.
+
+    Orbot anonymizes internet traffic by routing it through many different stages
+    and you must have that enabled first, though root isn't needed.
+    Orweb disables certain other browser features that could be used to identify
+    you.
+
+RepoType: git
+Repo: https://github.com/guardianproject/Orweb.git
+
+Builds:
+  - versionName: 0.2.2
+    versionCode: 3
+    commit: 460a5a92bc5a426f7ff710f03bc1341359a17d4b
+
+  - versionName: 0.4.2
+    versionCode: 15
+    commit: 3cab65406614bb43ce65133cda731f80939b3b5c
+
+  - versionName: 0.4.4
+    versionCode: 18
+    commit: 0.4.4
+    srclibs:
+      - ActionBarSherlock@6e3f2bb5
+    prebuild: sed -i 's@\(android.library.reference.1=\).*@\1$$ActionBarSherlock$$@'
+        project.properties
+
+  - versionName: 0.5.1
+    versionCode: 24
+    commit: 0.5.1
+    submodules: true
+    prebuild: cp libs/android-support-v4.jar external/ActionBarSherlock/actionbarsherlock/libs/android-support-v4.jar
+
+  - versionName: '0.6'
+    versionCode: 26
+    commit: '0.6'
+    submodules: true
+    prebuild: cp libs/android-support-v4.jar external/netcipher/libnetcipher/libs/android-support-v4.jar
+
+AutoUpdateMode: None
+UpdateCheckMode: Tags

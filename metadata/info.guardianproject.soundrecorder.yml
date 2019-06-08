@@ -1,0 +1,29 @@
+Categories:
+  - Multimedia
+  - Security
+  - GuardianProject
+License: SIL Open Font License, MIT License and the CC 3.0 License [CC-By with attribution
+    requirement waived]
+AuthorName: Guardian Project
+AuthorEmail: support@guardianproject.info
+AuthorWebSite: ' https://guardianproject.info'
+WebSite: https://guardianproject.info/apps/chatsecure
+SourceCode: https://github.com/guardianproject/ChatSecureVoicePlugin
+IssueTracker: https://dev.guardianproject.info/projects/chatsecure/issues
+LiberapayID: '33617'
+
+Summary: ChatSecure Voice Messaging
+Description: |-
+    This is a plugin for [[info.guardianproject.otr.app.im]]. It does not have any
+    function on its own.  For Your Ears Only... completely private, end-to-end
+    encryption voice message recording, sending, receiving and playback.
+
+     * For use with [[info.guardianproject.otr.app.im]]'s encrypted "Off-the-record" data stream
+     * Works over Tor - the ONLY Onion-routed voice messaging system, for total anonymity
+
+RepoType: git
+Repo: https://github.com/guardianproject/ChatSecureVoicePlugin
+
+ArchivePolicy: 0 versions
+AutoUpdateMode: None
+UpdateCheckMode: None

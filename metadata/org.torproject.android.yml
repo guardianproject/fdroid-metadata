@@ -1,0 +1,44 @@
+Categories:
+  - Security
+  - Internet
+  - GuardianProject
+License: NewBSD
+AuthorName: Guardian Project
+AuthorEmail: support@guardianproject.info
+AuthorWebSite: ' https://guardianproject.info'
+WebSite: http://www.torproject.org/docs/android.html
+SourceCode: https://gitweb.torproject.org/orbot.git
+IssueTracker: https://dev.guardianproject.info/projects/orbot/issues
+Donate: https://www.torproject.org/donate/donate.html.en
+FlattrID: '5649'
+LiberapayID: '33617'
+Bitcoin: 1Fi5xUHiAPRKxHvyUGVFGt9extBe8Srdbk
+
+AutoName: 'Orbot: Proxy with Tor'
+Description: |-
+    Tor is both software and an open network that helps you defend against network
+    surveillance that
+    threatens personal freedom and privacy, confidential business activities and
+    relationships.
+
+    Orbot allows access to Tor by accessing a local SOCKS or HTTP proxy.
+    On a rooted device, the proxying can be completely transparent i.e. the app
+    that accesses the network need not be aware of the proxy's existence;
+    you can choose which apps go via the proxy in the settings.
+
+    If you don't have root access, there are some apps that are designed to work
+    closely with tor or allow proxied connections:
+    [[info.guardianproject.otr.app.im]], [[info.guardianproject.browser]] and
+    https://f-droid.org/packages/org.mariotaku.twidere.
+    There is also a proxy configurator addon for Firefox called
+    [https://github.com/guardianproject/ProxyMob/downloads ProxyMob] (not yet
+    available from the Mozilla addon site).
+
+    Requires root: No, but you will need to use apps that allow proxies if root
+    is not granted.
+
+RepoType: git
+Repo: https://git.torproject.org/orbot.git
+
+AutoUpdateMode: None
+UpdateCheckMode: Tags ^[^-]*$

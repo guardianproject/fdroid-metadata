@@ -1,0 +1,20 @@
+Categories:
+  - Internet
+  - Security
+  - GuardianProject
+License: MPL
+AuthorName: Guardian Project
+AuthorEmail: support@guardianproject.info
+AuthorWebSite: ' https://guardianproject.info'
+SourceCode: https://github.com/guardianproject/orfox
+IssueTracker: https://dev.guardianproject.info/projects/orfox/issues?set_filter=1
+LiberapayID: '33617'
+Bitcoin: 1Fi5xUHiAPRKxHvyUGVFGt9extBe8Srdbk
+
+AutoName: Orfox
+
+RepoType: git
+Repo: https://github.com/guardianproject/orfox.git
+
+AutoUpdateMode: None
+UpdateCheckMode: None

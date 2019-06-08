@@ -55,7 +55,7 @@ Repo: https://github.com/guardianproject/haven
 
 #Binaries: https://github.com/guardianproject/haven/releases/download/%v/Haven-%v.apk
 
-builds:
+Builds:
   - versionName: 0.0.20
     versionCode: 20
     commit: 0.0.20
