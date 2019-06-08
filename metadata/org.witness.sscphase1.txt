@@ -1,0 +1,11 @@
+Categories:Multimedia,Security,GuardianProject
+License:GPLv3
+Web Site:https://guardianproject.info/apps/obscuracam
+Source Code:https://github.com/guardianproject/obscuracam
+Issue Tracker:https://github.com/guardianproject/obscuracam/issues
+Bitcoin:1Fi5xUHiAPRKxHvyUGVFGt9extBe8Srdbk
+LiberapayID:33617
+
+Author Email:support@guardianproject.info
+Author Name:Guardian Project
+Author Web Site: https://guardianproject.info

@@ -1,0 +1,26 @@
+Categories:Office,GuardianProject
+License:GPLv3
+Source Code:https://github.com/guardianproject/PixelKnot
+Issue Tracker:https://github.com/guardianproject/PixelKnot/issues
+Bitcoin:1Fi5xUHiAPRKxHvyUGVFGt9extBe8Srdbk
+LiberapayID:33617
+
+Auto Name:PixelKnot
+
+Repo Type:git
+Repo:https://github.com/guardianproject/PixelKnot.git
+
+Build:0.3.1,4
+    commit=0.3.1
+    subdir=app
+    init=sed -i '/reference/d' project.properties
+    srclibs=2:ActionBarSherlock@90939dc,1:F5@ce9c78497a0cc22a
+
+Auto Update Mode:None
+Update Check Mode:Tags
+
+
+
+Author Email:support@guardianproject.info
+Author Name:Guardian Project
+Author Web Site: https://guardianproject.info
