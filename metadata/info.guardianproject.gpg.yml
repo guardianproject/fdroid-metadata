@@ -1,7 +1,7 @@
 Categories:
   - Development
   - GuardianProject
-License: GPL-3.0
+License: GPL-3.0-or-later
 AuthorName: Guardian Project
 AuthorEmail: support@guardianproject.info
 AuthorWebSite: https://guardianproject.info
@@ -34,7 +34,7 @@ Description: |-
     automatically configure Android Terminal Emulator as long as you have the
     "Allow PATH extensions" settings enabled.
 
-    Status: Unmaintained, use [[org.sufficientlysecure.keychain]]
+    Status: Unmaintained, use https://f-droid.org/app/org.sufficientlysecure.keychain
 
 RepoType: git
 Repo: https://github.com/guardianproject/gnupg-for-android
