@@ -2,10 +2,10 @@ Categories:
   - Internet
   - Security
   - GuardianProject
-License: GPL
+License: GPL-2.0-only
 AuthorName: Guardian Project
 AuthorEmail: support@guardianproject.info
-AuthorWebSite: ' https://guardianproject.info'
+AuthorWebSite: https://guardianproject.info
 WebSite: https://guardianproject.info/apps/orweb
 SourceCode: https://github.com/guardianproject/orweb
 IssueTracker: https://dev.guardianproject.info/projects/orweb/issues?set_filter=1
@@ -19,9 +19,12 @@ Description: |-
     Android.
 
     Orbot anonymizes internet traffic by routing it through many different stages
-    and you must have that enabled first, though root isn't needed.
-    Orweb disables certain other browser features that could be used to identify
-    you.
+    and you must have that enabled first, though root isn't needed. Orweb disables
+    certain other browser features that could be used to identify you.
+
+    Please note that Orweb is superseded by [[info.guardianproject.orfox]],
+    available from the [https://guardianproject.info/fdroid/repo/ Guardian Project
+    repo].  Orweb is no longer maintained at all.
 
 RepoType: git
 Repo: https://github.com/guardianproject/Orweb.git
@@ -55,5 +58,22 @@ Builds:
     submodules: true
     prebuild: cp libs/android-support-v4.jar external/netcipher/libnetcipher/libs/android-support-v4.jar
 
+  - versionName: 0.6.1
+    versionCode: 27
+    commit: 0.6.1
+    submodules: true
+    prebuild: cp libs/android-support-v4.jar external/netcipher/libnetcipher/libs/android-support-v4.jar
+
+  - versionName: 0.7.1
+    versionCode: 7010
+    commit: 0.7.1
+    submodules: true
+    prebuild: cp libs/android-support-v4.jar external/netcipher/libnetcipher/libs/android-support-v4.jar
+    scanignore:
+      - external/netcipher/libnetcipher/external/pinning/res/raw/cacerts
+
+ArchivePolicy: 0 versions
 AutoUpdateMode: None
 UpdateCheckMode: Tags
+CurrentVersion: 0.7.1
+CurrentVersionCode: 7010

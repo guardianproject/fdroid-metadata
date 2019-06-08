@@ -1,8 +1,11 @@
 Categories:
   - Security
-License: GPL-3.0+
-SourceCode: https://github.com/guardianproject/haven
+License: GPL-3.0-or-later
+AuthorName: Guardian Project
+AuthorEmail: support@guardianproject.info
+AuthorWebSite: https://guardianproject.info
 WebSite: https://guardianproject.github.io/haven
+SourceCode: https://github.com/guardianproject/haven
 IssueTracker: https://github.com/guardianproject/haven/issues
 Bitcoin: 1Fi5xUHiAPRKxHvyUGVFGt9extBe8Srdbk
 LiberapayID: 33617

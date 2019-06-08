@@ -1,21 +1,22 @@
 Categories:
-  - Office
+  - Writing
+  - Security
   - GuardianProject
-License: Apache2
+License: Apache-2.0
 AuthorName: Guardian Project
 AuthorEmail: support@guardianproject.info
-AuthorWebSite: ' https://guardianproject.info'
+AuthorWebSite: https://guardianproject.info
+WebSite: https://guardianproject.info
 SourceCode: https://github.com/guardianproject/notecipher
 IssueTracker: https://github.com/guardianproject/notecipher/issues
 LiberapayID: '33617'
 Bitcoin: 1Fi5xUHiAPRKxHvyUGVFGt9extBe8Srdbk
 
 AutoName: NoteCipher
-Summary: Notepad with lock
 Description: |-
     Simple app for taking notes that encrypts everything behind a password.
 
-    Status: Unmaintained
+    Status: Unmaintained.
 
 RepoType: git
 Repo: https://github.com/guardianproject/notecipher.git

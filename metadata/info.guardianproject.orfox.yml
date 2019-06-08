@@ -2,12 +2,15 @@ Categories:
   - Internet
   - Security
   - GuardianProject
-License: MPL
+License: MPL-2.0
 AuthorName: Guardian Project
 AuthorEmail: support@guardianproject.info
-AuthorWebSite: ' https://guardianproject.info'
-SourceCode: https://github.com/guardianproject/orfox
-IssueTracker: https://dev.guardianproject.info/projects/orfox/issues?set_filter=1
+AuthorWebSite: https://guardianproject.info
+WebSite: https://dev.guardianproject.info/projects/orfox-private-browser/
+SourceCode: https://github.com/guardianproject/Orfox
+IssueTracker: https://dev.guardianproject.info/projects/orfox-private-browser/issues
+Translation: https://www.transifex.com/otf/torproject/
+Donate: https://www.torproject.org/donate/donate.html
 LiberapayID: '33617'
 Bitcoin: 1Fi5xUHiAPRKxHvyUGVFGt9extBe8Srdbk
 

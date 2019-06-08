@@ -1,20 +1,20 @@
 Categories:
   - Internet
   - GuardianProject
-License: Apache2
+License: Apache-2.0
 AuthorName: Guardian Project
 AuthorEmail: support@guardianproject.info
 AuthorWebSite: ' https://guardianproject.info'
 WebSite: https://dev.guardianproject.info/projects/gibberbot
-SourceCode: https://github.com/guardianproject/chatsecure
-IssueTracker: https://dev.guardianproject.info/projects/gibberbot
+SourceCode: https://github.com/guardianproject/ChatSecureAndroid
+IssueTracker: https://dev.guardianproject.info/projects/gibberbot/issues
 LiberapayID: '33617'
 Bitcoin: 1Fi5xUHiAPRKxHvyUGVFGt9extBe8Srdbk
 
 AutoName: ChatSecure
 
 RepoType: git
-Repo: https://github.com/guardianproject/chatsecure.git
+Repo: https://github.com/guardianproject/ChatSecureAndroid
 
 Builds:
   - versionName: 0.0.7-RC1

@@ -1,10 +1,10 @@
 Categories:
   - Development
   - GuardianProject
-License: GPLv3
+License: GPL-3.0
 AuthorName: Guardian Project
 AuthorEmail: support@guardianproject.info
-AuthorWebSite: ' https://guardianproject.info'
+AuthorWebSite: https://guardianproject.info
 WebSite: https://github.com/guardianproject/lildebi/wiki
 SourceCode: https://github.com/guardianproject/lildebi
 IssueTracker: https://github.com/guardianproject/lildebi/issues
