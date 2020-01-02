@@ -1,4 +1,7 @@
-Categories: [Internet, Security]
+Categories:
+  - Internet
+  - Security
+  - Guardian Project
 License: MPL-2.0
 AuthorName: The Tor Project
 AuthorEmail: playstore@torproject.org
