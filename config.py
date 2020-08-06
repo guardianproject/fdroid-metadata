@@ -1,6 +1,4 @@
 
-accepted_formats = ['txt', 'yml']
-
 repo_url = "https://guardianproject.info/fdroid/repo"
 repo_name = "Guardian Project Official Releases"
 repo_icon = "guardianproject.png"
