@@ -14,7 +14,7 @@ Bitcoin: 1Fi5xUHiAPRKxHvyUGVFGt9extBe8Srdbk
 AutoName: ChatSecure
 
 RepoType: git
-Repo: https://github.com/guardianproject/ChatSecureAndroid
+Repo: https://github.com/guardianproject/ChatSecureAndroid.git
 
 Builds:
   - versionName: 0.0.7-RC1

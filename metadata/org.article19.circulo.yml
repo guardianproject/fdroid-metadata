@@ -1,0 +1,21 @@
+Categories:
+  - Guardian Project
+  - Security
+License: GPL-3.0-or-later
+AuthorName: Guardian Project
+AuthorEmail: support@guardianproject.info
+AuthorWebSite: https://guardianproject.info
+SourceCode: https://github.com/guardianproject/circulo
+IssueTracker: https://github.com/guardianproject/circulo/issues
+Bitcoin: 1Fi5xUHiAPRKxHvyUGVFGt9extBe8Srdbk
+LiberapayID: 33617
+
+AutoName: Circulo
+Summary: Protect personal spaces and possessions without compromising privacy
+
+Description: |
+ Circulo was developed through a collaboration between Article19  and
+ Guardian Project.
+
+RepoType: git
+Repo: https://github.com/guardianproject/circulo

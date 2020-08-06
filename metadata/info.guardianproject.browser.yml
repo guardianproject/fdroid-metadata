@@ -15,16 +15,16 @@ Bitcoin: 1Fi5xUHiAPRKxHvyUGVFGt9extBe8Srdbk
 AutoName: Orweb
 Summary: Privacy-enhanced browser
 Description: |-
-    Orweb is a companion browser to [[org.torproject.android]], the port of Tor to
-    Android.
+    Orweb is a companion browser to
+    https://f-droid.org/packages/org.torproject.android/, the port of
+    Tor to Android.
 
     Orbot anonymizes internet traffic by routing it through many different stages
     and you must have that enabled first, though root isn't needed. Orweb disables
     certain other browser features that could be used to identify you.
 
-    Please note that Orweb is superseded by [[info.guardianproject.orfox]],
-    available from the [https://guardianproject.info/fdroid/repo/ Guardian Project
-    repo].  Orweb is no longer maintained at all.
+    Please note that Orweb is superseded by Tor Browser.  Orweb is no
+    longer maintained at all.
 
 RepoType: git
 Repo: https://github.com/guardianproject/Orweb.git

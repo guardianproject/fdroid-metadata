@@ -24,5 +24,6 @@ Builds:
     subdir: app
     submodules: true
 
+ArchivePolicy: 0 versions
 AutoUpdateMode: None
 UpdateCheckMode: Tags

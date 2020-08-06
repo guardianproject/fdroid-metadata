@@ -4,7 +4,8 @@ Categories:
 License: GPL-3.0-or-later
 AuthorName: Guardian Project
 AuthorEmail: support@guardianproject.info
-AuthorWebSite: ' https://guardianproject.info'
+AuthorWebSite: https://guardianproject.info
+WebSite: https://guardianproject.info/apps/camerav/
 SourceCode: https://github.com/guardianproject/CameraV
 IssueTracker: https://dev.guardianproject.info/projects/informacam/issues
 LiberapayID: '33617'
@@ -15,6 +16,6 @@ AutoName: 'CameraV: Secure Visual Proof'
 RepoType: git
 Repo: https://github.com/guardianproject/CameraV.git
 
+ArchivePolicy: 0 versions
 AutoUpdateMode: None
 UpdateCheckMode: None
-CurrentVersionCode: 9999999

@@ -13,9 +13,9 @@ LiberapayID: '33617'
 Bitcoin: 1Fi5xUHiAPRKxHvyUGVFGt9extBe8Srdbk
 
 Summary: ChatSecure Open Emoji Plugin
-Description: |-
-    Plugin for [[info.guardianproject.otr.app.im]] to support for core emoji input
-    and display.  Based on "Phantom Open Emoji" project.
+Description: |
+  Plugin for https://f-droid.org/packages/info.guardianproject.otr.app.im/ to support for core emoji input
+  and display.  Based on "Phantom Open Emoji" project.
 
 ArchivePolicy: 0 versions
 AutoUpdateMode: None

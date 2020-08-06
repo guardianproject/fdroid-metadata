@@ -1,6 +1,7 @@
 Categories:
   - Development
   - Guardian Project
+  - Security
 License: GPL-3.0-or-later
 AuthorName: Guardian Project
 AuthorEmail: support@guardianproject.info
@@ -34,7 +35,7 @@ Description: |-
     automatically configure Android Terminal Emulator as long as you have the
     "Allow PATH extensions" settings enabled.
 
-    Status: Unmaintained, use https://f-droid.org/app/org.sufficientlysecure.keychain
+    Status: Unmaintained, use https://f-droid.org/packages/org.sufficientlysecure.keychain/
 
 RepoType: git
 Repo: https://github.com/guardianproject/gnupg-for-android
@@ -57,6 +58,15 @@ Builds:
     commit: 0.3.1
     submodules: true
     prebuild: sed -i 's@\./autogen@AUTOMAKE_SUFFIX=-1.11 ./autogen@g' external/Makefile
+    build: make NDK_BASE=$$NDK$$ -C external/ distclean clean-assets all
+    buildjni:
+      - yes
+
+  - versionName: 0.3.2
+    versionCode: 3020
+    disable: take care of binary scanner errors
+    commit: 0.3.2
+    submodules: true
     build: make NDK_BASE=$$NDK$$ -C external/ distclean clean-assets all
     buildjni:
       - yes
