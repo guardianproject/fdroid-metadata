@@ -1,3 +1,0 @@
-+ reproducible build
-+ add translations: fa fr zh-CN
-+ update translations: de pt_PT tr
