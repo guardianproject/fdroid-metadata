@@ -1,7 +1,10 @@
 /archive/
+/binary_transparency/
 /build/
+/git-mirror/
 /logs/
 /repo/
 /unsigned/
 /tmp/
+/virustotal/
 variables
